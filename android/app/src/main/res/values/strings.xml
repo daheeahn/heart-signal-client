@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">heart_signal_client</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">dqOYqExF2SfCfqTud8Dbx0G_W3bViwjS3LwsX</string>
+</resources>
